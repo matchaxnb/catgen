@@ -1,0 +1,7 @@
+*jpg
+dataset/*
+*.pickle
+*.h5
+images.tar.gz
+__pycache__
+*.pyc
