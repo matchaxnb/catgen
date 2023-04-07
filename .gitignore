@@ -4,4 +4,7 @@ dataset/*
 *.h5
 images.tar.gz
 __pycache__
+.vscode
 *.pyc
+node_modules
+*.sw
